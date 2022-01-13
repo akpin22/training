@@ -1,3 +1,7 @@
 We have packed out toolset and ready to lauch to space
 We are docked into the international station and ready for sling to mars
 I have lots of time and I am starting my journal to mars
+I am still bored and continue to add my journal to mars
+Adding another journal entry
+I finally figured out how to get the Git button in R
+This should be updated now
