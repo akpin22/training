@@ -5,3 +5,4 @@ I am still bored and continue to add my journal to mars
 Adding another journal entry
 I finally figured out how to get the Git button in R
 This should be updated now
+I made an edit on my code in VSCode
